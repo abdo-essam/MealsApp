@@ -1,6 +1,2 @@
 ## Screenshots
-<table>
-  <tr>
-    <td><img src="https://github.com/abdo-essam/MealsApp/blob/master/AppScreen.png" width="250"></td>
-  </tr>
-</table>
+[![App Screenshot](https://github.com/abdo-essam/MealsApp/blob/master/AppScreen.png)](https://github.com/abdo-essam/MealsApp/blob/master/AppScreen.png)
