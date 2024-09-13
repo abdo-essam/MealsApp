@@ -1,9 +1,9 @@
 ## Screenshot
-<img src="(https://github.com/abdo-essam/MealsApp/blob/master/AppScreen.png)" alt="App Screenshot" width="150"/>
+<img src="https://raw.githubusercontent.com/abdo-essam/MealsApp/master/AppScreen.png" alt="App Screenshot" width="150"/>
 
 
 ## Demo Video
-[![Watch the video](https://github.com/abdo-essam/MealsApp/blob/master/Screen_recording.mp4)
+[Watch the video here](https://drive.google.com/file/d/your-video-id/view)
 
 ## Installation
 1. Clone the repository:
