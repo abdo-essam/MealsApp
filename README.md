@@ -1,5 +1,5 @@
 ## Screenshot
-<img src="(https://github.com/abdo-essam/MealsApp/blob/master/AppScreen.png)" alt="App Screenshot" width="300"/>
+<img src="(https://github.com/abdo-essam/MealsApp/blob/master/AppScreen.png)" alt="App Screenshot" width="150"/>
 
 
 ## Demo Video
