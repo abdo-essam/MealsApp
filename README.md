@@ -3,7 +3,7 @@
 
 
 ## Demo Video
-[![Watch the video](https://your-image-hosting-service.com/thumbnail.jpg)](https://drive.google.com/file/d/1l2uuN9nTInvKOGIXto8oYBojKptlKQph/view?usp=sharing)
+[![Watch the video](https://drive.google.com/file/d/1l2uuN9nTInvKOGIXto8oYBojKptlKQph/view?usp=sharing)
 
 ## Installation
 1. Clone the repository:
