@@ -1,5 +1,6 @@
 ## Screenshot
-![App Screenshot](https://github.com/abdo-essam/MealsApp/blob/master/AppScreen.png)
+<img src="[https://github.com/yourusername/your-repo-name/blob/main/screenshots/screenshot.png](https://github.com/abdo-essam/MealsApp/blob/master/AppScreen.png)" alt="App Screenshot" width="300"/>
+
 
 ## Demo Video
 [![Watch the video](https://github.com/abdo-essam/MealsApp/blob/master/Screen_recording.mp4)
